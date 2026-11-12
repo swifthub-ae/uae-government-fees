@@ -7,6 +7,7 @@ last checked there (latest check: 2026-11-12).
 
 Maintained by [SwiftHub Business Consultants](https://swifthub.ae/), a company formation consultancy in Dubai. The
 figures are the ones quoted across swifthub.ae, so each row also links the guide that explains the fee in context.
+Browse and search them on one page: [UAE government fees 2026](https://swifthub.ae/uae-government-fees/).
 
 - `uae-government-fees.csv` and `uae-government-fees.json`: the same data in two formats.
 - Columns: `id`, `fee`, `amount_aed`, `authority`, `publisher_detail`, `source_url`, `checked_on`, `explained_at`.
@@ -455,4 +456,4 @@ reference list, not legal or tax advice. Corrections are welcome as issues or pu
 ## Licence
 
 The data is published under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): use it freely, with a
-credit and link to [swifthub.ae](https://swifthub.ae/).
+credit and a link to [swifthub.ae/uae-government-fees](https://swifthub.ae/uae-government-fees/).
