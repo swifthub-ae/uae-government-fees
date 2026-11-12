@@ -22,7 +22,11 @@ reference list, not legal or tax advice. Corrections are welcome as issues or pu
 - [UAE VAT calculator](https://swifthub.ae/vat-calculator-uae/): add or remove 5% VAT, and check registration
   against the Federal Tax Authority's thresholds.
 - [UAE gratuity calculator](https://swifthub.ae/gratuity-calculator-uae/): end-of-service pay by Article 51 of the
-  Labour Law.
+  Labour Law ([in Arabic](https://swifthub.ae/ar/gratuity-calculator/)).
+- [UAE leave salary calculator](https://swifthub.ae/leave-salary-calculator-uae/): annual leave pay at full wage, unused
+  days on the basic wage and the days earned, by Article 29 of the Labour Law.
+- The overstay fine calculator [in Arabic](https://swifthub.ae/ar/overstay-fine/), with GDRFA's and ICP's Arabic
+  service names for checking and paying a fine.
 
 ## Fees by authority
 
