@@ -1357,7 +1357,7 @@
   "publisher_detail": "Federal Tax Authority",
   "source_url": "https://tax.gov.ae/Datafolder/Files/Legislation/2025/Cabinet%20Decision%20No.%2040%20of%202017%20and%20its%20amendments%20-%20publishing%2011%202025.pdf",
   "checked_on": "2026-09-12",
-  "explained_at": "https://swifthub.ae/tax-vat-registration/"
+  "explained_at": "https://swifthub.ae/vat-calculator-uae/"
  },
  {
   "id": "gdrfaResidenceDelivery",
@@ -1787,7 +1787,7 @@
   "publisher_detail": "ICP",
   "source_url": "https://icp.gov.ae/en/services-details/?serviceid=64afe3c1035448005bd52e63",
   "checked_on": "2026-11-03",
-  "explained_at": "https://swifthub.ae/visit-visa-to-residence-visa-uae/"
+  "explained_at": "https://swifthub.ae/uae-overstay-fine-calculator/"
  },
  {
   "id": "icpOverstayFineDaily",
@@ -1797,7 +1797,7 @@
   "publisher_detail": "ICP",
   "source_url": "https://icp.gov.ae/en/services-details/?serviceid=64afe3c1035448005bd52e68",
   "checked_on": "2026-11-03",
-  "explained_at": "https://swifthub.ae/visa-cancellation-uae/"
+  "explained_at": "https://swifthub.ae/uae-overstay-fine-calculator/"
  },
  {
   "id": "icpEmiratesIdLateDaily",
@@ -1918,6 +1918,16 @@
   "source_url": "https://icp.gov.ae/en/services-details/?serviceid=64afe3c1035448005bd52e68",
   "checked_on": "2026-11-03",
   "explained_at": "https://swifthub.ae/visa-cancellation-uae/"
+ },
+ {
+  "id": "icpFinePaymentSmart",
+  "fee": "ICP smart services fee, paying a visa or residence violation fine",
+  "amount_aed": 100,
+  "authority": "ICP",
+  "publisher_detail": "ICP",
+  "source_url": "https://icp.gov.ae/en/services-details/?serviceid=68e73faf5ae59b00117389f1",
+  "checked_on": "2026-11-12",
+  "explained_at": "https://swifthub.ae/uae-overstay-fine-calculator/"
  },
  {
   "id": "icpStatusAdjustment",
