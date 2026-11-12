@@ -47,7 +47,7 @@
   "publisher_detail": "Ajman Free Zone",
   "source_url": "https://afz.gov.ae/services/service/work-entry-permit-change-status",
   "checked_on": "2026-11-04",
-  "explained_at": "https://swifthub.ae/ajman-free-zone-license-requirements/"
+  "explained_at": "https://swifthub.ae/visa-status-change-uae/"
  },
  {
   "id": "afzManagerChangeFrom",
@@ -77,7 +77,7 @@
   "publisher_detail": "Ajman Free Zone",
   "source_url": "https://afz.gov.ae/services/service/e-channel-renewal",
   "checked_on": "2026-11-04",
-  "explained_at": ""
+  "explained_at": "https://swifthub.ae/uae-residence-visa-renewal/"
  },
  {
   "id": "afzEstablishmentCardCancellation",
@@ -97,7 +97,7 @@
   "publisher_detail": "Ajman Free Zone",
   "source_url": "https://afz.gov.ae/services/service/establishment-card-renewal",
   "checked_on": "2026-11-04",
-  "explained_at": ""
+  "explained_at": "https://swifthub.ae/uae-residence-visa-renewal/"
  },
  {
   "id": "afzLicenceCancellation",
@@ -227,7 +227,7 @@
   "publisher_detail": "Ajman Free Zone",
   "source_url": "https://afz.gov.ae/services/service/residency-visa-services-renewal",
   "checked_on": "2026-11-04",
-  "explained_at": "https://swifthub.ae/ajman-free-zone-license-requirements/"
+  "explained_at": "https://swifthub.ae/uae-residence-visa-renewal/"
  },
  {
   "id": "afzInvestorSalaryFloor",
@@ -907,7 +907,7 @@
   "publisher_detail": "Dubai Health",
   "source_url": "https://dubaihealth.ae/documents/d/dubai-health/medical-fitness-packages",
   "checked_on": "2026-11-02",
-  "explained_at": "https://swifthub.ae/uae-employment-visa-cost-first-hires/"
+  "explained_at": "https://swifthub.ae/uae-residence-visa-renewal/"
  },
  {
   "id": "dhMedicalVip",
@@ -1407,7 +1407,7 @@
   "publisher_detail": "GDRFA Dubai",
   "source_url": "https://www.gdrfad.gov.ae/en/services/95222a40-56f2-11ea-0320-0050569629e8",
   "checked_on": "2026-10-26",
-  "explained_at": "https://swifthub.ae/imm-amer-corporate-services/"
+  "explained_at": "https://swifthub.ae/uae-residence-visa-renewal/"
  },
  {
   "id": "gdrfaResidenceCancellation",
@@ -1418,6 +1418,16 @@
   "source_url": "https://gdrfad.gov.ae/en/services/0613ab0e-5858-11ea-0320-0050569629e8",
   "checked_on": "2026-11-03",
   "explained_at": "https://swifthub.ae/visa-cancellation-uae/"
+ },
+ {
+  "id": "gdrfaBusinessVisitDeposit",
+  "fee": "GDRFA Dubai financial security deposit on a visit visa to explore business opportunities",
+  "amount_aed": 1000,
+  "authority": "GDRFA Dubai",
+  "publisher_detail": "GDRFA Dubai",
+  "source_url": "https://gdrfad.gov.ae/en/node/13888",
+  "checked_on": "2026-11-12",
+  "explained_at": "https://swifthub.ae/uae-business-visa/"
  },
  {
   "id": "gdrfaEstablishmentCardLateMonthly",
@@ -1507,7 +1517,7 @@
   "publisher_detail": "GDRFA Dubai",
   "source_url": "https://gdrfad.gov.ae/en/services/0613ab0e-5858-11ea-0320-0050569629e8",
   "checked_on": "2026-11-03",
-  "explained_at": "https://swifthub.ae/cheapest-residence-visa-uae/"
+  "explained_at": "https://swifthub.ae/visa-status-change-uae/"
  },
  {
   "id": "gdrfaPropertyOwnerIncome",
@@ -1547,7 +1557,27 @@
   "publisher_detail": "GDRFA Dubai",
   "source_url": "https://www.gdrfad.gov.ae/en/services/95222a40-56f2-11ea-0320-0050569629e8",
   "checked_on": "2026-10-26",
-  "explained_at": "https://swifthub.ae/imm-amer-corporate-services/"
+  "explained_at": "https://swifthub.ae/uae-residence-visa-renewal/"
+ },
+ {
+  "id": "gdrfaDepositRefundFee",
+  "fee": "GDRFA Dubai security deposit collection and reimbursement fee, on a visit visa to explore business opportunities",
+  "amount_aed": 40,
+  "authority": "GDRFA Dubai",
+  "publisher_detail": "GDRFA Dubai",
+  "source_url": "https://gdrfad.gov.ae/en/node/13888",
+  "checked_on": "2026-11-12",
+  "explained_at": "https://swifthub.ae/uae-business-visa/"
+ },
+ {
+  "id": "gdrfaDepositServiceFee",
+  "fee": "GDRFA Dubai security deposit service fee, on a visit visa to explore business opportunities",
+  "amount_aed": 20,
+  "authority": "GDRFA Dubai",
+  "publisher_detail": "GDRFA Dubai",
+  "source_url": "https://gdrfad.gov.ae/en/node/13888",
+  "checked_on": "2026-11-12",
+  "explained_at": "https://swifthub.ae/uae-business-visa/"
  },
  {
   "id": "gdrfaStatusAmendment",
@@ -1557,7 +1587,7 @@
   "publisher_detail": "GDRFA Dubai",
   "source_url": "https://www.gdrfad.gov.ae/en/services/63c69432-585e-11ea-0320-0050569629e8",
   "checked_on": "2026-11-03",
-  "explained_at": "https://swifthub.ae/uae-employment-visa-cost-first-hires/"
+  "explained_at": "https://swifthub.ae/visa-status-change-uae/"
  },
  {
   "id": "gdrfaStatusEstablishmentFee",
@@ -1608,6 +1638,36 @@
   "source_url": "https://gdrfad.gov.ae/en/services/64154a31-ec6d-11ec-140b-0050569629e8",
   "checked_on": "2026-11-02",
   "explained_at": "https://swifthub.ae/cheapest-residence-visa-uae/"
+ },
+ {
+  "id": "gdrfaBusinessVisit120",
+  "fee": "GDRFA Dubai visit visa to explore business opportunities, 120 days (plus 5% VAT; no sponsor or host needed)",
+  "amount_aed": 400,
+  "authority": "GDRFA Dubai",
+  "publisher_detail": "GDRFA Dubai",
+  "source_url": "https://gdrfad.gov.ae/en/node/13888",
+  "checked_on": "2026-11-12",
+  "explained_at": "https://swifthub.ae/uae-business-visa/"
+ },
+ {
+  "id": "gdrfaBusinessVisit60",
+  "fee": "GDRFA Dubai visit visa to explore business opportunities, 60 days (plus 5% VAT; no sponsor or host needed)",
+  "amount_aed": 200,
+  "authority": "GDRFA Dubai",
+  "publisher_detail": "GDRFA Dubai",
+  "source_url": "https://gdrfad.gov.ae/en/node/13888",
+  "checked_on": "2026-11-12",
+  "explained_at": "https://swifthub.ae/uae-business-visa/"
+ },
+ {
+  "id": "gdrfaBusinessVisit90",
+  "fee": "GDRFA Dubai visit visa to explore business opportunities, 90 days (plus 5% VAT; no sponsor or host needed)",
+  "amount_aed": 300,
+  "authority": "GDRFA Dubai",
+  "publisher_detail": "GDRFA Dubai",
+  "source_url": "https://gdrfad.gov.ae/en/node/13888",
+  "checked_on": "2026-11-12",
+  "explained_at": "https://swifthub.ae/uae-business-visa/"
  },
  {
   "id": "gdrfaWorkEntryVisa",
@@ -1867,7 +1927,7 @@
   "publisher_detail": "ICP",
   "source_url": "https://icp.gov.ae/en/services-details/?serviceid=64afe3c1035448005bd52e5a",
   "checked_on": "2026-11-02",
-  "explained_at": "https://swifthub.ae/uae-employment-visa-cost-first-hires/"
+  "explained_at": "https://swifthub.ae/visa-status-change-uae/"
  },
  {
   "id": "icpEstCardRenewalSubscription",
@@ -1897,7 +1957,7 @@
   "publisher_detail": "ICP",
   "source_url": "https://icp.gov.ae/en/services-details/?serviceid=64afe3c1035448005bd52e5a",
   "checked_on": "2026-11-02",
-  "explained_at": "https://swifthub.ae/uae-employment-visa-cost-first-hires/"
+  "explained_at": "https://swifthub.ae/visa-status-change-uae/"
  },
  {
   "id": "icpResidenceSmart",
@@ -1937,7 +1997,7 @@
   "publisher_detail": "ICP",
   "source_url": "https://icp.gov.ae/en/services-details/?serviceid=64afe3c1035448005bd52e64",
   "checked_on": "2026-11-03",
-  "explained_at": "https://swifthub.ae/imm-amer-corporate-services/"
+  "explained_at": "https://swifthub.ae/visa-status-change-uae/"
  },
  {
   "id": "icpEstCardSystemSubscription",
@@ -2417,7 +2477,7 @@
   "publisher_detail": "RAKEZ",
   "source_url": "https://rakez.com/en/faqs",
   "checked_on": "2026-11-03",
-  "explained_at": "https://swifthub.ae/rakez-visa-cost/"
+  "explained_at": "https://swifthub.ae/uae-residence-visa-renewal/"
  },
  {
   "id": "rakezDependentVisaCancel",
@@ -2477,7 +2537,7 @@
   "publisher_detail": "RAKEZ",
   "source_url": "https://rakez.com/en/faqs",
   "checked_on": "2026-11-04",
-  "explained_at": ""
+  "explained_at": "https://swifthub.ae/uae-residence-visa-renewal/"
  },
  {
   "id": "rakezDeregistrationOffice",
@@ -2557,7 +2617,7 @@
   "publisher_detail": "RAKEZ",
   "source_url": "https://rakez.com/en/service-cards/visa-services/visa-renewal-dependents",
   "checked_on": "2026-11-04",
-  "explained_at": "https://swifthub.ae/rakez-visa-cost/"
+  "explained_at": "https://swifthub.ae/uae-residence-visa-renewal/"
  },
  {
   "id": "rakezDependentVisaRenewal",
@@ -2567,7 +2627,7 @@
   "publisher_detail": "RAKEZ",
   "source_url": "https://rakez.com/en/service-cards/visa-services/visa-renewal-dependents",
   "checked_on": "2026-11-04",
-  "explained_at": "https://swifthub.ae/rakez-visa-cost/"
+  "explained_at": "https://swifthub.ae/uae-residence-visa-renewal/"
  },
  {
   "id": "rakezEmployeeVisaRenewal",
@@ -2577,7 +2637,7 @@
   "publisher_detail": "RAKEZ",
   "source_url": "https://eservices.rakez.com/apex/RAK_Employment_Visa",
   "checked_on": "2026-11-04",
-  "explained_at": "https://swifthub.ae/rakez-visa-cost/"
+  "explained_at": "https://swifthub.ae/uae-residence-visa-renewal/"
  },
  {
   "id": "rakezInvestorVisaRenewal",
@@ -2587,7 +2647,7 @@
   "publisher_detail": "RAKEZ",
   "source_url": "https://eservices.rakez.com/apex/RAK_Employment_Visa",
   "checked_on": "2026-11-04",
-  "explained_at": "https://swifthub.ae/rakez-visa-cost/"
+  "explained_at": "https://swifthub.ae/uae-residence-visa-renewal/"
  },
  {
   "id": "rakezEmployeeVisaRenewalVip",
@@ -2597,7 +2657,7 @@
   "publisher_detail": "RAKEZ",
   "source_url": "https://rakez.com/en/service-cards/visa-services/visa-renewal-employee",
   "checked_on": "2026-11-04",
-  "explained_at": "https://swifthub.ae/rakez-visa-cost/"
+  "explained_at": "https://swifthub.ae/uae-residence-visa-renewal/"
  },
  {
   "id": "rakezInvestorVisaRenewalVip",
@@ -2607,7 +2667,7 @@
   "publisher_detail": "RAKEZ",
   "source_url": "https://rakez.com/en/service-cards/visa-services/visa-renewal-investor-partner",
   "checked_on": "2026-11-04",
-  "explained_at": "https://swifthub.ae/rakez-visa-cost/"
+  "explained_at": "https://swifthub.ae/uae-residence-visa-renewal/"
  },
  {
   "id": "rtaRelocationApproval",
@@ -2797,7 +2857,7 @@
   "publisher_detail": "SPC Free Zone",
   "source_url": "https://www.spcfz.ae/pay-as-you-go/",
   "checked_on": "2026-10-29",
-  "explained_at": ""
+  "explained_at": "https://swifthub.ae/visa-status-change-uae/"
  },
  {
   "id": "spcCompanyStamp",
