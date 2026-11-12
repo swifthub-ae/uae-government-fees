@@ -15,6 +15,15 @@ Browse and search them on one page: [UAE government fees 2026](https://swifthub.
 Fees change. Always confirm on the authority's own page (the `source_url`) before you pay or quote one. This is a
 reference list, not legal or tax advice. Corrections are welcome as issues or pull requests.
 
+## Tools built on this data
+
+- [UAE overstay fine calculator](https://swifthub.ae/uae-overstay-fine-calculator/): ICP's grace period for each
+  residence type, the day it ends and the daily fine after it.
+- [UAE VAT calculator](https://swifthub.ae/vat-calculator-uae/): add or remove 5% VAT, and check registration
+  against the Federal Tax Authority's thresholds.
+- [UAE gratuity calculator](https://swifthub.ae/gratuity-calculator-uae/): end-of-service pay by Article 51 of the
+  Labour Law.
+
 ## Fees by authority
 
 ### Ajman Free Zone
