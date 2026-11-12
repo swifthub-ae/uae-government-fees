@@ -500,6 +500,266 @@
   "explained_at": "https://swifthub.ae/how-to-start-a-logistics-company-in-dubai/"
  },
  {
+  "id": "dedForeignTradeName",
+  "fee": "DED fee, applying for a foreign or numeric trade name (Schedule 1, no. 7)",
+  "amount_aed": 2000,
+  "authority": "Dubai Department of Economy and Tourism",
+  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
+  "checked_on": "2026-10-07",
+  "explained_at": "https://swifthub.ae/grocery-license-cost-in-dubai/"
+ },
+ {
+  "id": "dedDeregistrationCommercialRegister",
+  "fee": "DED fee, deregistration of a commercial company from the commercial register (Schedule 1, no. 19)",
+  "amount_aed": 2000,
+  "authority": "Dubai Department of Economy and Tourism",
+  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
+  "checked_on": "2026-10-21",
+  "explained_at": "https://swifthub.ae/dubai-trade-license-cancellation-fees/"
+ },
+ {
+  "id": "dedDissolutionLiquidator",
+  "fee": "DED fee, dissolution of a company and appointing a liquidator (Schedule 1, no. 17)",
+  "amount_aed": 2000,
+  "authority": "Dubai Department of Economy and Tourism",
+  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
+  "checked_on": "2026-10-21",
+  "explained_at": "https://swifthub.ae/dubai-trade-license-cancellation-fees/"
+ },
+ {
+  "id": "dedLicenceIssueOrRenew",
+  "fee": "DED fee, issuance or renewal of a licence (Schedule 1, no. 1)",
+  "amount_aed": 600,
+  "authority": "Dubai Department of Economy and Tourism",
+  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
+  "checked_on": "2026-10-22",
+  "explained_at": "https://swifthub.ae/ded-trade-license-services-application-renewal-amendments-in-dubai/"
+ },
+ {
+  "id": "dedIntilaqIssueOrRenew",
+  "fee": "DED fee, issuance or renewal of a licence for an economic activity from home, Intilaq (Schedule 1, no. 27)",
+  "amount_aed": 1000,
+  "authority": "Dubai Department of Economy and Tourism",
+  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
+  "checked_on": "2026-10-22",
+  "explained_at": "https://swifthub.ae/ded-trade-license-services-application-renewal-amendments-in-dubai/"
+ },
+ {
+  "id": "dedNewspaperAnnouncement",
+  "fee": "DED fee, publishing announcements related to licences in daily newspapers, per advertisement (Schedule 1, no. 3)",
+  "amount_aed": 500,
+  "authority": "Dubai Department of Economy and Tourism",
+  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
+  "checked_on": "2026-10-21",
+  "explained_at": "https://swifthub.ae/dubai-trade-license-cancellation-fees/"
+ },
+ {
+  "id": "dedRenewalContracting",
+  "fee": "DED fee, renewal of a licence to conduct a contracting activity (Schedule 1, no. 22)",
+  "amount_aed": 3000,
+  "authority": "Dubai Department of Economy and Tourism",
+  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
+  "checked_on": "2026-10-22",
+  "explained_at": "https://swifthub.ae/ded-trade-license-services-application-renewal-amendments-in-dubai/"
+ },
+ {
+  "id": "dedRenewalGeneralTrading",
+  "fee": "DED fee, renewal of a licence to conduct a general trading activity (Schedule 1, no. 24)",
+  "amount_aed": 3000,
+  "authority": "Dubai Department of Economy and Tourism",
+  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
+  "checked_on": "2026-10-22",
+  "explained_at": "https://swifthub.ae/ded-trade-license-services-application-renewal-amendments-in-dubai/"
+ },
+ {
+  "id": "dedRenewalInvestment",
+  "fee": "DED fee, renewal of a licence to conduct an investment activity (Schedule 1, no. 26)",
+  "amount_aed": 3000,
+  "authority": "Dubai Department of Economy and Tourism",
+  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
+  "checked_on": "2026-10-22",
+  "explained_at": "https://swifthub.ae/dubai-trade-license-renewal-cost/"
+ },
+ {
+  "id": "dedTradeNameReservation",
+  "fee": "DED fee, reservation of a trade name (Schedule 1, no. 5)",
+  "amount_aed": 200,
+  "authority": "Dubai Department of Economy and Tourism",
+  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
+  "checked_on": "2026-10-22",
+  "explained_at": "https://swifthub.ae/gym-license-dubai/"
+ },
+ {
+  "id": "dedRevocationCeasedActivity",
+  "fee": "DED fee, revocation of the licence of an establishment which ceased its activity (Schedule 1, no. 18)",
+  "amount_aed": 2000,
+  "authority": "Dubai Department of Economy and Tourism",
+  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
+  "checked_on": "2026-10-21",
+  "explained_at": "https://swifthub.ae/dubai-trade-license-cancellation-fees/"
+ },
+ {
+  "id": "dedLicenceVariation",
+  "fee": "DED fee, variation of licence details, per variation (Schedule 1, no. 2)",
+  "amount_aed": 500,
+  "authority": "Dubai Department of Economy and Tourism",
+  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
+  "checked_on": "2026-10-22",
+  "explained_at": "https://swifthub.ae/ded-trade-license-services-application-renewal-amendments-in-dubai/"
+ },
+ {
+  "id": "dedFineLateRenewalMonthly",
+  "fee": "DED fine per month, delay in renewing the licence (Schedule 2, no. 6)",
+  "amount_aed": 200,
+  "authority": "Dubai Department of Economy and Tourism",
+  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
+  "checked_on": "2026-10-07",
+  "explained_at": "https://swifthub.ae/ded-trade-license-services-application-renewal-amendments-in-dubai/"
+ },
+ {
+  "id": "dedFineNoLicence",
+  "fee": "DED fine, conducting an economic activity without a licence (Schedule 2, no. 1)",
+  "amount_aed": 5000,
+  "authority": "Dubai Department of Economy and Tourism",
+  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
+  "checked_on": "2026-10-07",
+  "explained_at": "https://swifthub.ae/how-to-start-a-cleaning-company-in-dubai/"
+ },
+ {
+  "id": "dedFinePriceDiscrepancy",
+  "fee": "DED fine, discrepancy between the DED-approved price list and displayed prices (Schedule 2, no. 55)",
+  "amount_aed": 2000,
+  "authority": "Dubai Department of Economy and Tourism",
+  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
+  "checked_on": "2026-10-07",
+  "explained_at": "https://swifthub.ae/supermarket-license-in-dubai/"
+ },
+ {
+  "id": "dedFineGoodsOutsideShop",
+  "fee": "DED fine, displaying goods or providing services outside shops without a permit (Schedule 2, no. 20)",
+  "amount_aed": 1000,
+  "authority": "Dubai Department of Economy and Tourism",
+  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
+  "checked_on": "2026-10-07",
+  "explained_at": "https://swifthub.ae/laundry-license-dubai/"
+ },
+ {
+  "id": "dedFineFailureToRenew",
+  "fee": "DED fine, failure to renew the licence within the prescribed period (Schedule 2, no. 5)",
+  "amount_aed": 250,
+  "authority": "Dubai Department of Economy and Tourism",
+  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
+  "checked_on": "2026-10-07",
+  "explained_at": "https://swifthub.ae/ded-trade-license-services-application-renewal-amendments-in-dubai/"
+ },
+ {
+  "id": "dedFineVendingNoPermit",
+  "fee": "DED fine, installing ATMs outside banks or vending machines without a permit (Schedule 2, no. 29)",
+  "amount_aed": 3000,
+  "authority": "Dubai Department of Economy and Tourism",
+  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
+  "checked_on": "2026-10-07",
+  "explained_at": "https://swifthub.ae/grocery-license-cost-in-dubai/"
+ },
+ {
+  "id": "dedFineOutsideHours",
+  "fee": "DED fine, working beyond regular working hours without a permit (Schedule 2, no. 26)",
+  "amount_aed": 1500,
+  "authority": "Dubai Department of Economy and Tourism",
+  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
+  "checked_on": "2026-10-07",
+  "explained_at": "https://swifthub.ae/tea-shop-license-dubai/"
+ },
+ {
+  "id": "dedFineRepeatCap",
+  "fee": "DED maximum fine after doubling for a repeat violation within one year (Article 3b)",
+  "amount_aed": 100000,
+  "authority": "Dubai Department of Economy and Tourism",
+  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
+  "checked_on": "2026-10-07",
+  "explained_at": "https://swifthub.ae/supermarket-license-in-dubai/"
+ },
+ {
+  "id": "dedPermitSignboard",
+  "fee": "DED permit, advertising signboards of an establishment (Schedule 1, no. 56)",
+  "amount_aed": 250,
+  "authority": "Dubai Department of Economy and Tourism",
+  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
+  "checked_on": "2026-10-07",
+  "explained_at": "https://swifthub.ae/how-to-start-a-restaurant-in-dubai/"
+ },
+ {
+  "id": "dedPermitWarehouse",
+  "fee": "DED permit, establishing a store or warehouse of an establishment (Schedule 1, no. 89)",
+  "amount_aed": 300,
+  "authority": "Dubai Department of Economy and Tourism",
+  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
+  "checked_on": "2026-10-07",
+  "explained_at": "https://swifthub.ae/supermarket-license-in-dubai/"
+ },
+ {
+  "id": "dedPermitLateHours",
+  "fee": "DED permit, extending working hours up to 2:00 am (Schedule 1, no. 55)",
+  "amount_aed": 2000,
+  "authority": "Dubai Department of Economy and Tourism",
+  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
+  "checked_on": "2026-10-07",
+  "explained_at": "https://swifthub.ae/tea-shop-license-dubai/"
+ },
+ {
+  "id": "dedPermitVendingMachine",
+  "fee": "DED permit, installing a vending machine, per machine (Schedule 1, no. 79)",
+  "amount_aed": 300,
+  "authority": "Dubai Department of Economy and Tourism",
+  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
+  "checked_on": "2026-10-07",
+  "explained_at": "https://swifthub.ae/grocery-license-cost-in-dubai/"
+ },
+ {
+  "id": "dedPermitNameBoard",
+  "fee": "DED permit, name board on the facade of an establishment (Schedule 1, no. 60)",
+  "amount_aed": 350,
+  "authority": "Dubai Department of Economy and Tourism",
+  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
+  "checked_on": "2026-10-07",
+  "explained_at": "https://swifthub.ae/laundry-license-dubai/"
+ },
+ {
+  "id": "dedPermit24Hours",
+  "fee": "DED permit, operating twenty-four hours (Schedule 1, no. 54)",
+  "amount_aed": 3000,
+  "authority": "Dubai Department of Economy and Tourism",
+  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
+  "checked_on": "2026-10-07",
+  "explained_at": "https://swifthub.ae/tea-shop-license-dubai/"
+ },
+ {
   "id": "detSmeLlc",
   "fee": "DET Dubai SME licence, LLC single owner: average fee (UAE and GCC nationals only)",
   "amount_aed": 6070,
@@ -550,6 +810,16 @@
   "explained_at": "https://swifthub.ae/business-license-cost/"
  },
  {
+  "id": "detFreeZoneBranchLicence",
+  "fee": "DET licence for a Dubai free zone company's branch operating out of the free zone, per year (Executive Council Resolution No. 11 of 2025, Article 12)",
+  "amount_aed": 10000,
+  "authority": "Dubai Department of Economy and Tourism",
+  "publisher_detail": "Dubai Executive Council",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2025/Executive%20Council%20Resolution%20No.%20%2811%29%20of%202025%20Regulating%20the%20Conduct%20of%20Free%20Zone%20Establishments%E2%80%99%20Activities.html",
+  "checked_on": "2026-11-03",
+  "explained_at": "https://swifthub.ae/can-free-zone-company-trade-in-mainland/"
+ },
+ {
   "id": "detBaseLlcSingleOwner",
   "fee": "DET normal licence, LLC single owner, one expat owner: average fee before 5% of the annual rent (Invest in Dubai Business Set-Up Recommendations, same for every activity tested)",
   "amount_aed": 14000,
@@ -568,6 +838,16 @@
   "source_url": "https://app.invest.dubai.ae/business-setup-recommendation",
   "checked_on": "2026-10-27",
   "explained_at": "https://swifthub.ae/business-license-cost/"
+ },
+ {
+  "id": "detFreeZonePermit",
+  "fee": "DET temporary permit for a Dubai free zone company to conduct specific activities in the rest of Dubai, up to six months (Resolution No. 11 of 2025, Article 12; the Free Zone Mainland Operating Permit)",
+  "amount_aed": 5000,
+  "authority": "Dubai Department of Economy and Tourism",
+  "publisher_detail": "Dubai Executive Council",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2025/Executive%20Council%20Resolution%20No.%20%2811%29%20of%202025%20Regulating%20the%20Conduct%20of%20Free%20Zone%20Establishments%E2%80%99%20Activities.html",
+  "checked_on": "2026-11-03",
+  "explained_at": "https://swifthub.ae/can-free-zone-company-trade-in-mainland/"
  },
  {
   "id": "dubaiChamberEtrader",
@@ -610,334 +890,44 @@
   "explained_at": "https://swifthub.ae/get-general-maintenance-license-in-dubai/"
  },
  {
-  "id": "dedForeignTradeName",
-  "fee": "DED fee, applying for a foreign or numeric trade name (Schedule 1, no. 7)",
-  "amount_aed": 2000,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
-  "checked_on": "2026-10-07",
-  "explained_at": "https://swifthub.ae/grocery-license-cost-in-dubai/"
+  "id": "dhMedicalSalemInnovative",
+  "fee": "Dubai Health medical fitness examination at the Salem Innovative Center, 30 minutes",
+  "amount_aed": 700,
+  "authority": "Dubai Health",
+  "publisher_detail": "Dubai Health",
+  "source_url": "https://dubaihealth.ae/documents/d/dubai-health/medical-fitness-packages",
+  "checked_on": "2026-10-26",
+  "explained_at": "https://swifthub.ae/uae-employment-visa-cost-first-hires/"
  },
  {
-  "id": "dedDeregistrationCommercialRegister",
-  "fee": "DED fee, deregistration of a commercial company from the commercial register (Schedule 1, no. 19)",
-  "amount_aed": 2000,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
-  "checked_on": "2026-10-21",
-  "explained_at": "https://swifthub.ae/dubai-trade-license-cancellation-fees/"
+  "id": "dhMedicalStandard",
+  "fee": "Dubai Health medical fitness examination for residency, result in 24 working hours",
+  "amount_aed": 270,
+  "authority": "Dubai Health",
+  "publisher_detail": "Dubai Health",
+  "source_url": "https://dubaihealth.ae/documents/d/dubai-health/medical-fitness-packages",
+  "checked_on": "2026-11-02",
+  "explained_at": "https://swifthub.ae/uae-employment-visa-cost-first-hires/"
  },
  {
-  "id": "dedDissolutionLiquidator",
-  "fee": "DED fee, dissolution of a company and appointing a liquidator (Schedule 1, no. 17)",
-  "amount_aed": 2000,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
-  "checked_on": "2026-10-21",
-  "explained_at": "https://swifthub.ae/dubai-trade-license-cancellation-fees/"
+  "id": "dhMedicalVip",
+  "fee": "Dubai Health medical fitness examination for VIPs, 2 working hours",
+  "amount_aed": 1020,
+  "authority": "Dubai Health",
+  "publisher_detail": "Dubai Health",
+  "source_url": "https://dubaihealth.ae/documents/d/dubai-health/medical-fitness-packages",
+  "checked_on": "2026-10-26",
+  "explained_at": "https://swifthub.ae/uae-employment-visa-cost-first-hires/"
  },
  {
-  "id": "dedLicenceIssueOrRenew",
-  "fee": "DED fee, issuance or renewal of a licence (Schedule 1, no. 1)",
-  "amount_aed": 600,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
-  "checked_on": "2026-10-22",
-  "explained_at": "https://swifthub.ae/ded-trade-license-services-application-renewal-amendments-in-dubai/"
- },
- {
-  "id": "dedIntilaqIssueOrRenew",
-  "fee": "DED fee, issuance or renewal of a licence for an economic activity from home, Intilaq (Schedule 1, no. 27)",
-  "amount_aed": 1000,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
-  "checked_on": "2026-10-22",
-  "explained_at": "https://swifthub.ae/ded-trade-license-services-application-renewal-amendments-in-dubai/"
- },
- {
-  "id": "dedNewspaperAnnouncement",
-  "fee": "DED fee, publishing announcements related to licences in daily newspapers, per advertisement (Schedule 1, no. 3)",
-  "amount_aed": 500,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
-  "checked_on": "2026-10-21",
-  "explained_at": "https://swifthub.ae/dubai-trade-license-cancellation-fees/"
- },
- {
-  "id": "dedRenewalContracting",
-  "fee": "DED fee, renewal of a licence to conduct a contracting activity (Schedule 1, no. 22)",
-  "amount_aed": 3000,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
-  "checked_on": "2026-10-22",
-  "explained_at": "https://swifthub.ae/ded-trade-license-services-application-renewal-amendments-in-dubai/"
- },
- {
-  "id": "dedRenewalGeneralTrading",
-  "fee": "DED fee, renewal of a licence to conduct a general trading activity (Schedule 1, no. 24)",
-  "amount_aed": 3000,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
-  "checked_on": "2026-10-22",
-  "explained_at": "https://swifthub.ae/ded-trade-license-services-application-renewal-amendments-in-dubai/"
- },
- {
-  "id": "dedRenewalInvestment",
-  "fee": "DED fee, renewal of a licence to conduct an investment activity (Schedule 1, no. 26)",
-  "amount_aed": 3000,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
-  "checked_on": "2026-10-22",
-  "explained_at": "https://swifthub.ae/dubai-trade-license-renewal-cost/"
- },
- {
-  "id": "dedTradeNameReservation",
-  "fee": "DED fee, reservation of a trade name (Schedule 1, no. 5)",
-  "amount_aed": 200,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
-  "checked_on": "2026-10-22",
-  "explained_at": "https://swifthub.ae/gym-license-dubai/"
- },
- {
-  "id": "dedRevocationCeasedActivity",
-  "fee": "DED fee, revocation of the licence of an establishment which ceased its activity (Schedule 1, no. 18)",
-  "amount_aed": 2000,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
-  "checked_on": "2026-10-21",
-  "explained_at": "https://swifthub.ae/dubai-trade-license-cancellation-fees/"
- },
- {
-  "id": "dedLicenceVariation",
-  "fee": "DED fee, variation of licence details, per variation (Schedule 1, no. 2)",
-  "amount_aed": 500,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
-  "checked_on": "2026-10-22",
-  "explained_at": "https://swifthub.ae/ded-trade-license-services-application-renewal-amendments-in-dubai/"
- },
- {
-  "id": "dedFineLateRenewalMonthly",
-  "fee": "DED fine per month, delay in renewing the licence (Schedule 2, no. 6)",
-  "amount_aed": 200,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
-  "checked_on": "2026-10-07",
-  "explained_at": "https://swifthub.ae/ded-trade-license-services-application-renewal-amendments-in-dubai/"
- },
- {
-  "id": "dedFineNoLicence",
-  "fee": "DED fine, conducting an economic activity without a licence (Schedule 2, no. 1)",
-  "amount_aed": 5000,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
-  "checked_on": "2026-10-07",
-  "explained_at": "https://swifthub.ae/how-to-start-a-cleaning-company-in-dubai/"
- },
- {
-  "id": "dedFinePriceDiscrepancy",
-  "fee": "DED fine, discrepancy between the DED-approved price list and displayed prices (Schedule 2, no. 55)",
-  "amount_aed": 2000,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
-  "checked_on": "2026-10-07",
-  "explained_at": "https://swifthub.ae/supermarket-license-in-dubai/"
- },
- {
-  "id": "dedFineGoodsOutsideShop",
-  "fee": "DED fine, displaying goods or providing services outside shops without a permit (Schedule 2, no. 20)",
-  "amount_aed": 1000,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
-  "checked_on": "2026-10-07",
-  "explained_at": "https://swifthub.ae/laundry-license-dubai/"
- },
- {
-  "id": "dedFineFailureToRenew",
-  "fee": "DED fine, failure to renew the licence within the prescribed period (Schedule 2, no. 5)",
-  "amount_aed": 250,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
-  "checked_on": "2026-10-07",
-  "explained_at": "https://swifthub.ae/ded-trade-license-services-application-renewal-amendments-in-dubai/"
- },
- {
-  "id": "dedFineVendingNoPermit",
-  "fee": "DED fine, installing ATMs outside banks or vending machines without a permit (Schedule 2, no. 29)",
-  "amount_aed": 3000,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
-  "checked_on": "2026-10-07",
-  "explained_at": "https://swifthub.ae/grocery-license-cost-in-dubai/"
- },
- {
-  "id": "dedFineOutsideHours",
-  "fee": "DED fine, working beyond regular working hours without a permit (Schedule 2, no. 26)",
-  "amount_aed": 1500,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
-  "checked_on": "2026-10-07",
-  "explained_at": "https://swifthub.ae/tea-shop-license-dubai/"
- },
- {
-  "id": "dedFineRepeatCap",
-  "fee": "DED maximum fine after doubling for a repeat violation within one year (Article 3b)",
-  "amount_aed": 100000,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
-  "checked_on": "2026-10-07",
-  "explained_at": "https://swifthub.ae/supermarket-license-in-dubai/"
- },
- {
-  "id": "dedPermitSignboard",
-  "fee": "DED permit, advertising signboards of an establishment (Schedule 1, no. 56)",
-  "amount_aed": 250,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
-  "checked_on": "2026-10-07",
-  "explained_at": "https://swifthub.ae/how-to-start-a-restaurant-in-dubai/"
- },
- {
-  "id": "dedPermitWarehouse",
-  "fee": "DED permit, establishing a store or warehouse of an establishment (Schedule 1, no. 89)",
-  "amount_aed": 300,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
-  "checked_on": "2026-10-07",
-  "explained_at": "https://swifthub.ae/supermarket-license-in-dubai/"
- },
- {
-  "id": "dedPermitLateHours",
-  "fee": "DED permit, extending working hours up to 2:00 am (Schedule 1, no. 55)",
-  "amount_aed": 2000,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
-  "checked_on": "2026-10-07",
-  "explained_at": "https://swifthub.ae/tea-shop-license-dubai/"
- },
- {
-  "id": "dedPermitVendingMachine",
-  "fee": "DED permit, installing a vending machine, per machine (Schedule 1, no. 79)",
-  "amount_aed": 300,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
-  "checked_on": "2026-10-07",
-  "explained_at": "https://swifthub.ae/grocery-license-cost-in-dubai/"
- },
- {
-  "id": "dedPermitNameBoard",
-  "fee": "DED permit, name board on the facade of an establishment (Schedule 1, no. 60)",
-  "amount_aed": 350,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
-  "checked_on": "2026-10-07",
-  "explained_at": "https://swifthub.ae/laundry-license-dubai/"
- },
- {
-  "id": "dedPermit24Hours",
-  "fee": "DED permit, operating twenty-four hours (Schedule 1, no. 54)",
-  "amount_aed": 3000,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (DED fee and fine schedule, Resolution No. 13 of 2011)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2011/Executive%20Council%20Resolution%20No.%20%2813%29%20of%202011.html",
-  "checked_on": "2026-10-07",
-  "explained_at": "https://swifthub.ae/tea-shop-license-dubai/"
- },
- {
-  "id": "detFreeZoneBranchLicence",
-  "fee": "DET licence for a Dubai free zone company's branch operating out of the free zone, per year (Executive Council Resolution No. 11 of 2025, Article 12)",
-  "amount_aed": 10000,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2025/Executive%20Council%20Resolution%20No.%20%2811%29%20of%202025%20Regulating%20the%20Conduct%20of%20Free%20Zone%20Establishments%E2%80%99%20Activities.html",
-  "checked_on": "2026-11-03",
-  "explained_at": "https://swifthub.ae/can-free-zone-company-trade-in-mainland/"
- },
- {
-  "id": "detFreeZonePermit",
-  "fee": "DET temporary permit for a Dubai free zone company to conduct specific activities in the rest of Dubai, up to six months (Resolution No. 11 of 2025, Article 12; the Free Zone Mainland Operating Permit)",
-  "amount_aed": 5000,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2025/Executive%20Council%20Resolution%20No.%20%2811%29%20of%202025%20Regulating%20the%20Conduct%20of%20Free%20Zone%20Establishments%E2%80%99%20Activities.html",
-  "checked_on": "2026-11-03",
-  "explained_at": "https://swifthub.ae/can-free-zone-company-trade-in-mainland/"
- },
- {
-  "id": "dscFineNoPermit",
-  "fee": "DSC fine, conducting a sports activity without a permit (Schedule, no. 1)",
-  "amount_aed": 20000,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (Resolution No. 1 of 2020 regulating sports establishments)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2020/Executive%20Council%20Resolution%20No.%20(1)%20of%202020%20Regulating%20Sports%20Establishments%20and%20Sports%20Events%20in%20the%20Emirate%20of%20Dubai.html",
-  "checked_on": "2026-10-25",
-  "explained_at": "https://swifthub.ae/gym-license-dubai/"
- },
- {
-  "id": "dscFineHealthSafety",
-  "fee": "DSC fine, failing to meet health, safety and environmental requirements (Schedule, no. 17)",
-  "amount_aed": 20000,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (Resolution No. 1 of 2020 regulating sports establishments)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2020/Executive%20Council%20Resolution%20No.%20(1)%20of%202020%20Regulating%20Sports%20Establishments%20and%20Sports%20Events%20in%20the%20Emirate%20of%20Dubai.html",
-  "checked_on": "2026-10-25",
-  "explained_at": "https://swifthub.ae/gym-license-dubai/"
- },
- {
-  "id": "dscFineUnregisteredCoach",
-  "fee": "DSC fine, hiring a coach or professional staff member not registered in the register (Schedule, no. 12)",
-  "amount_aed": 10000,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (Resolution No. 1 of 2020 regulating sports establishments)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2020/Executive%20Council%20Resolution%20No.%20(1)%20of%202020%20Regulating%20Sports%20Establishments%20and%20Sports%20Events%20in%20the%20Emirate%20of%20Dubai.html",
-  "checked_on": "2026-10-25",
-  "explained_at": "https://swifthub.ae/gym-license-dubai/"
- },
- {
-  "id": "dscFinePermitTerms",
-  "fee": "DSC fine, violating the terms of a permit (Schedule, no. 3)",
-  "amount_aed": 5000,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (Resolution No. 1 of 2020 regulating sports establishments)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2020/Executive%20Council%20Resolution%20No.%20(1)%20of%202020%20Regulating%20Sports%20Establishments%20and%20Sports%20Events%20in%20the%20Emirate%20of%20Dubai.html",
-  "checked_on": "2026-10-25",
-  "explained_at": "https://swifthub.ae/gym-license-dubai/"
- },
- {
-  "id": "dscFineRepeatCap",
-  "fee": "DSC maximum fine after doubling for a repeat violation within one year (Article 19b)",
-  "amount_aed": 150000,
-  "authority": "Dubai Executive Council",
-  "publisher_detail": "Dubai Executive Council (Resolution No. 1 of 2020 regulating sports establishments)",
-  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2020/Executive%20Council%20Resolution%20No.%20(1)%20of%202020%20Regulating%20Sports%20Establishments%20and%20Sports%20Events%20in%20the%20Emirate%20of%20Dubai.html",
-  "checked_on": "2026-10-25",
-  "explained_at": "https://swifthub.ae/gym-license-dubai/"
+  "id": "dhMedicalPremium",
+  "fee": "Dubai Health premium medical fitness examination, 6 working hours",
+  "amount_aed": 700,
+  "authority": "Dubai Health",
+  "publisher_detail": "Dubai Health",
+  "source_url": "https://dubaihealth.ae/documents/d/dubai-health/medical-fitness-packages",
+  "checked_on": "2026-10-26",
+  "explained_at": "https://swifthub.ae/uae-employment-visa-cost-first-hires/"
  },
  {
   "id": "dhaPsvExtraDocument",
@@ -1250,46 +1240,6 @@
   "explained_at": "https://swifthub.ae/how-to-get-massage-therapist-license-in-dubai/"
  },
  {
-  "id": "dhMedicalSalemInnovative",
-  "fee": "Dubai Health medical fitness examination at the Salem Innovative Center, 30 minutes",
-  "amount_aed": 700,
-  "authority": "Dubai Health Authority",
-  "publisher_detail": "Dubai Health",
-  "source_url": "https://dubaihealth.ae/documents/d/dubai-health/medical-fitness-packages",
-  "checked_on": "2026-10-26",
-  "explained_at": "https://swifthub.ae/uae-employment-visa-cost-first-hires/"
- },
- {
-  "id": "dhMedicalStandard",
-  "fee": "Dubai Health medical fitness examination for residency, result in 24 working hours",
-  "amount_aed": 270,
-  "authority": "Dubai Health Authority",
-  "publisher_detail": "Dubai Health",
-  "source_url": "https://dubaihealth.ae/documents/d/dubai-health/medical-fitness-packages",
-  "checked_on": "2026-11-02",
-  "explained_at": "https://swifthub.ae/uae-employment-visa-cost-first-hires/"
- },
- {
-  "id": "dhMedicalVip",
-  "fee": "Dubai Health medical fitness examination for VIPs, 2 working hours",
-  "amount_aed": 1020,
-  "authority": "Dubai Health Authority",
-  "publisher_detail": "Dubai Health",
-  "source_url": "https://dubaihealth.ae/documents/d/dubai-health/medical-fitness-packages",
-  "checked_on": "2026-10-26",
-  "explained_at": "https://swifthub.ae/uae-employment-visa-cost-first-hires/"
- },
- {
-  "id": "dhMedicalPremium",
-  "fee": "Dubai Health premium medical fitness examination, 6 working hours",
-  "amount_aed": 700,
-  "authority": "Dubai Health Authority",
-  "publisher_detail": "Dubai Health",
-  "source_url": "https://dubaihealth.ae/documents/d/dubai-health/medical-fitness-packages",
-  "checked_on": "2026-10-26",
-  "explained_at": "https://swifthub.ae/uae-employment-visa-cost-first-hires/"
- },
- {
   "id": "dsbhLicenceFrom",
   "fee": "Dubai South Business Hub free zone licence, from (the zone's own published starting price)",
   "amount_aed": 12500,
@@ -1298,6 +1248,56 @@
   "source_url": "https://dubaisouthbh.com/blogs/business-license-costs-in-dubai",
   "checked_on": "2026-10-27",
   "explained_at": "https://swifthub.ae/business-license-cost/"
+ },
+ {
+  "id": "dscFineNoPermit",
+  "fee": "DSC fine, conducting a sports activity without a permit (Schedule, no. 1)",
+  "amount_aed": 20000,
+  "authority": "Dubai Sports Council",
+  "publisher_detail": "Dubai Executive Council (Resolution No. 1 of 2020 regulating sports establishments)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2020/Executive%20Council%20Resolution%20No.%20(1)%20of%202020%20Regulating%20Sports%20Establishments%20and%20Sports%20Events%20in%20the%20Emirate%20of%20Dubai.html",
+  "checked_on": "2026-10-25",
+  "explained_at": "https://swifthub.ae/gym-license-dubai/"
+ },
+ {
+  "id": "dscFineHealthSafety",
+  "fee": "DSC fine, failing to meet health, safety and environmental requirements (Schedule, no. 17)",
+  "amount_aed": 20000,
+  "authority": "Dubai Sports Council",
+  "publisher_detail": "Dubai Executive Council (Resolution No. 1 of 2020 regulating sports establishments)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2020/Executive%20Council%20Resolution%20No.%20(1)%20of%202020%20Regulating%20Sports%20Establishments%20and%20Sports%20Events%20in%20the%20Emirate%20of%20Dubai.html",
+  "checked_on": "2026-10-25",
+  "explained_at": "https://swifthub.ae/gym-license-dubai/"
+ },
+ {
+  "id": "dscFineUnregisteredCoach",
+  "fee": "DSC fine, hiring a coach or professional staff member not registered in the register (Schedule, no. 12)",
+  "amount_aed": 10000,
+  "authority": "Dubai Sports Council",
+  "publisher_detail": "Dubai Executive Council (Resolution No. 1 of 2020 regulating sports establishments)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2020/Executive%20Council%20Resolution%20No.%20(1)%20of%202020%20Regulating%20Sports%20Establishments%20and%20Sports%20Events%20in%20the%20Emirate%20of%20Dubai.html",
+  "checked_on": "2026-10-25",
+  "explained_at": "https://swifthub.ae/gym-license-dubai/"
+ },
+ {
+  "id": "dscFinePermitTerms",
+  "fee": "DSC fine, violating the terms of a permit (Schedule, no. 3)",
+  "amount_aed": 5000,
+  "authority": "Dubai Sports Council",
+  "publisher_detail": "Dubai Executive Council (Resolution No. 1 of 2020 regulating sports establishments)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2020/Executive%20Council%20Resolution%20No.%20(1)%20of%202020%20Regulating%20Sports%20Establishments%20and%20Sports%20Events%20in%20the%20Emirate%20of%20Dubai.html",
+  "checked_on": "2026-10-25",
+  "explained_at": "https://swifthub.ae/gym-license-dubai/"
+ },
+ {
+  "id": "dscFineRepeatCap",
+  "fee": "DSC maximum fine after doubling for a repeat violation within one year (Article 19b)",
+  "amount_aed": 150000,
+  "authority": "Dubai Sports Council",
+  "publisher_detail": "Dubai Executive Council (Resolution No. 1 of 2020 regulating sports establishments)",
+  "source_url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2020/Executive%20Council%20Resolution%20No.%20(1)%20of%202020%20Regulating%20Sports%20Establishments%20and%20Sports%20Events%20in%20the%20Emirate%20of%20Dubai.html",
+  "checked_on": "2026-10-25",
+  "explained_at": "https://swifthub.ae/gym-license-dubai/"
  },
  {
   "id": "ctNaturalPersonThreshold",
