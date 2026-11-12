@@ -27,6 +27,8 @@ reference list, not legal or tax advice. Corrections are welcome as issues or pu
   days on the basic wage and the days earned, by Article 29 of the Labour Law.
 - The overstay fine calculator [in Arabic](https://swifthub.ae/ar/overstay-fine/), with GDRFA's and ICP's Arabic
   service names for checking and paying a fine.
+- [UAE overtime calculator](https://swifthub.ae/overtime-calculator-uae/): overtime hours, night hours and days off
+  worked, by Article 19 of the Labour Law.
 
 ## Fees by authority
 
